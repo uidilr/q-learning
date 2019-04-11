@@ -7,14 +7,14 @@ numpy==1.16.1
 
 To install requirements
 ```bash
-# pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
 
 Run main.py to perform experiment
 ```bash
-# python main.py
+python main.py
 ```
 
 Detailed Usage
