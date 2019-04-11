@@ -1,5 +1,17 @@
 # Q-learning with FrozenLake
 
+## Requirements
+
+gym==0.10.5  
+numpy==1.16.1
+
+To install requirements
+```bash
+# pip install -r requirements.txt
+```
+
+## Usage
+
 Run main.py to perform experiment
 ```bash
 # python main.py
